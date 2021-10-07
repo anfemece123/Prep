@@ -1,0 +1,23 @@
+h1{
+    color: darkslateblue;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: saddlebrown;
+}
+#spanID{
+    font-size: 25px;
+}
+#spanID{
+    margin: 50px;
+}
+#thirdDiv{
+    padding: 50px;
+}
+#thirdDiv{
+    border: 8mm ridge rgba(177, 163, 151, 0.6);
+}
