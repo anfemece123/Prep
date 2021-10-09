@@ -21,3 +21,11 @@ img{
 #thirdDiv{
     border: 8mm ridge rgba(177, 163, 151, 0.6);
 }
+body{
+    background-image: url(https://media.giphy.com/media/fdAiExXcn84LS0B3Jw/giphy.gif);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
